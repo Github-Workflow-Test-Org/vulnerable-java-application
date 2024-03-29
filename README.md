@@ -8,7 +8,7 @@ This repository contains a sample application, the "Websites Tester Service", th
 
 ## Running locally
 
-1. Build the image locally, or use `ghcr.io/datadog/vulnerable-java-application`:
+1. Build the image locally, or use `ghcr.io/datadog/vulnerable-java-application`:s
 2. Run:
 
 ```
